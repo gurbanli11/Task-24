@@ -1,0 +1,15 @@
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\bin\Debug\net6.0\ActionTask.exe
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\bin\Debug\net6.0\ActionTask.deps.json
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\bin\Debug\net6.0\ActionTask.runtimeconfig.json
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\bin\Debug\net6.0\ActionTask.dll
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\bin\Debug\net6.0\ActionTask.pdb
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\ActionTask.csproj.AssemblyReference.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\ActionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\ActionTask.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\ActionTask.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\ActionTask.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\ActionTask.dll
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\refint\ActionTask.dll
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\ActionTask.pdb
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\ActionTask.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\ActionTask\ActionTask\obj\Debug\net6.0\ref\ActionTask.dll
